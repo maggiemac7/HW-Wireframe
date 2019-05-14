@@ -1,1 +1,29 @@
+header {
+    background: #ebebeb;
+}
 
+nav {
+    background: #ebebeb;
+}
+
+section {
+    background: #ebebeb;
+}
+
+h1 {color: #777;
+background: #ebebeb;
+}
+
+p {color: #777;
+    background: #ebebeb;
+}
+
+article {background: #777;
+color: #ebebeb;
+}
+
+aside {
+    background: #ebebeb;
+}
+footer {background: #ebebeb;
+}
