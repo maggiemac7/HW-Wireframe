@@ -1,10 +1,13 @@
 .background {
     background: #777;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 
 .header {
     
+    color: #777;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     width: 960px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -19,6 +22,9 @@
 }
 
 .body{ 
+
+    color: #777;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     width: 960px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -29,6 +35,8 @@
 
 .nav {
 
+    color: #777;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     width: 960px;;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -43,6 +51,8 @@
 
 .section {
 
+    color: #777;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     width: 495px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -58,6 +68,7 @@
 
 .h {
 
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
@@ -72,6 +83,7 @@
 
 .paragraph {
 
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
@@ -86,7 +98,7 @@
 
 .article {
     
-    
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     background: #777;
@@ -100,6 +112,8 @@
 
 .aside {
 
+    color: #777;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     margin-top: 15px;
     margin-left: 15px;
     margin-bottom: 15px;
@@ -119,6 +133,8 @@
 }
 .footer {
     
+    color: #777;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     margin: 15px;
     width: 960px;
     text-align: center;
